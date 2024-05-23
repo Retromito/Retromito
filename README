@@ -1,7 +1,4 @@
-echo "# Retromito" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Retromito/Retromito.git
-git push -u origin main
+Olá, me chamo Rosalvo Matheus.
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
