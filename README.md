@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil ✞
 
-**Me chamo Rosalvo Matheus.**
+Me chamo **Rosalvo Matheus.**
 
 ⚫Estou estudando na Alura
 
